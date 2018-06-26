@@ -467,11 +467,11 @@
             },
             "H1": {
               "color": "#0f7699",
-              "text-align": "right"
+              "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#767676",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_name": "header2",
